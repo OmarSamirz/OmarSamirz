@@ -1,6 +1,6 @@
-## Hi there
+## Hi there, I'm Omar
 
-I'm Omar, a passionate and driven computer science student with a keen interest in the fascinating world of data science and machine learning. As someone who enjoys exploring the endless possibilities of technology, I am constantly seeking opportunities to learn, grow, and apply my knowledge to real-world challenges. 
+a passionate and driven computer science student with a keen interest in the fascinating world of data science and machine learning. As someone who enjoys exploring the endless possibilities of technology, I am constantly seeking opportunities to learn, grow, and apply my knowledge to real-world challenges. 
 Currently pursuing my computer science degree, I have been immersing myself in various projects and coursework that have expanded my knowledge and sharpened my skills. 
 
 ### 💻 Skills
