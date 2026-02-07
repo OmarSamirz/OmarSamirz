@@ -101,12 +101,11 @@ A Python package for generating OCR training datasets from text.
 ---
 
 ### 🛠️ Tools & Engineering
-- PyTorch Lightning  
+- PyTorch
 - LLaMAFactory  
 - MkDocs  
 - Git & GitHub  
 - Linux  
-- Model Deployment & Inference Pipelines  
 
 ---
 
