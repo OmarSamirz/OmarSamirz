@@ -118,5 +118,5 @@ Autonomous Driving • Multimodal AI • Large Language Models • Applied Machi
 
 ## 📫 Contact
 - GitHub: https://github.com/OmarSamirz  
-- LinkedIn: *(add your LinkedIn link here)*  
-- Email: *(optional)*  
+- LinkedIn: https://www.linkedin.com/in/omar-samir-8415b2285/
+- Email: omarsamir1300@gmail.com
