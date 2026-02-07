@@ -12,12 +12,12 @@ Throughout my academic journey, I worked on multiple end-to-end AI projects, inc
 A research-driven **Vision-Language-Action (VLA)** framework designed to enable multimodal large language models to perceive driving scenes, reason about them, and generate vehicle control commands.
 
 - Designed a unified architecture combining **vision, language reasoning, and ego-vehicle state**
-- Fine-tuned **Qwen2.x-VL-based multimodal LLMs** for autonomous driving tasks
+- Fine-tuned **Qwen2.5-VL** for autonomous driving tasks
 - Generated structured outputs: **trajectory, speed, and steering predictions**
 - Enabled explainable driving decisions using language grounding
-- Trained and evaluated on **BDD-X, NuInstruct, LingoQA, Rank2Tell** datasets
+- Trained and evaluated on **DriveGPT4, LingoQA, DriveLM** datasets
 
-**Tech:** PyTorch, Qwen2-VL, Multimodal LLMs, Autonomous Driving, Computer Vision
+**Tech:** PyTorch, Qwen2.5-VL, Multimodal LLMs, Autonomous Driving, Computer Vision
 
 ---
 
@@ -39,7 +39,6 @@ A published research project focused on improving Arabic OCR accuracy through la
 ### 🔊 EGTTS v0.1 – Text-to-Speech Model
 A beta **Text-to-Speech model** built on the XTTS v2 architecture.
 
-- Customized training and inference pipelines
 - Focused on voice quality and performance
 - Published and documented the model for public use
 
